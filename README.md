@@ -1,5 +1,12 @@
 # AI Product Creative Generation Workflow
 
+## Demo Video
+
+[▶️ Watch the Demo on Google Drive](https://drive.google.com/file/d/1LDHBCkWE_iwUDcE9SVsz8Nj8xKsrheYo/view?usp=sharing)
+
+---
+
+
 An automated multi-agent AI system that generates product marketing images and videos from any product URL. The system uses 7 specialized AI agents working together to research products, create creative strategies, generate prompts, produce visual content, and evaluate quality.
 
 ## Features
